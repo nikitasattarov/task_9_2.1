@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1574770878 source:c:\users\user\prog\3 sem\2.11\main.cpp
+	<iostream>
+	<set>
+	<string>
+	<Windows.h>
+
+1574770880 source:c:\users\rog\desktop\Григорьев_Прога\2.11\main.cpp
+	<iostream>
+	<set>
+	<string>
+	<Windows.h>
+
